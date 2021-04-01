@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Aruthran. I am a 14 year old web developer with experience in html, css and Javascript. I have also taken a couple of CS courses online, to get an understanding of Algorithms and Datsa structures. I like to share tips on learning web development on twitter. This is my twitter profile https://twitter.com/The_Tech_Nerd9. 
 
 <!--
 **aruthran/aruthran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
